@@ -1,1 +1,1 @@
-# OOP_LAB02
+# OOP_ETEC
